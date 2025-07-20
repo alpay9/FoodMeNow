@@ -8,6 +8,7 @@ source venv/bin/activate   # Mac/Linux <br>
 venv\Scripts\activate      # Windows <br>
 Install packages required... <br>
 uvicorn main:app --reload <br>
+enter http://127.0.0.1:8000 <br>
 <br>
 
 ### Packages Needed:
